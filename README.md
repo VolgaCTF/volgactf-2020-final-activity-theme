@@ -1,4 +1,4 @@
-# VolgaCTF 2019 Activity theme
+# VolgaCTF 2020 Activity theme
 
 ## License
 MIT @ [VolgaCTF](https://github.com/VolgaCTF)
