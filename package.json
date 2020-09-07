@@ -1,0 +1,19 @@
+{
+  "name": "volgactf-2020-final-activity-theme",
+  "version": "1.0.0",
+  "description": "VolgaCTF 2020 Final Activity theme",
+  "main": "bin/server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolgaCTF/2020-final-activity-theme.git"
+  },
+  "author": "VolgaCTF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VolgaCTF/2020-final-activity-theme/issues"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.2"
+  }
+}
